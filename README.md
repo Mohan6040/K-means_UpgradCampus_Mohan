@@ -1,6 +1,3 @@
-Here’s the updated README with your code wrapped properly inside markdown code blocks:
-
-
 # Customer Segmentation for Online Retail Using K-Means Clustering
 
 ## Project Overview
